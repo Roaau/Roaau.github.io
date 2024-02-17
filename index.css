@@ -9,4 +9,12 @@ body{
         grid-column: 1/-1;
         font-family:Calibri; 
 }
+<style>
+    h1 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+h1 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+</style>
 
