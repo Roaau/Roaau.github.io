@@ -8,41 +8,12 @@ body{
         height: 100vh;
         font-family:Calibri; 
 }
-#menu{
-        width:350px;
-        color: #219ebc;
-        background-color: #15173c;
-        grid-template-columns: repeat(4, 1fr);
-        border-radius:1rem;
-        padding:1.5rem;
-        box-shadow: 0 10px 20px rgba(0,0,0,0.19);
-}
-#h2{
+h2{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        grid-column: 1/-1;
-        background-color: #DAF7A6;
-        color: #219ebc;
-        display:grid;
-        padding:1.5rem;
-        font-size:2rem;
-        text-align:right;
-        border-radius:.5rem;
-        margin-bottom: 1rem;
-        font-weight:1200;
 }
 
-#h1{
+h1{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        grid-column: 1/-1;
-        background-color: #DAF7A6;
-        color: #219ebc;
-        display:grid;
-        padding:1.5rem;
-        font-size:2rem;
-        text-align:right;
-        border-radius:.5rem;
-        margin-bottom: 1rem;
-        font-weight:1200;
 }
 
 
