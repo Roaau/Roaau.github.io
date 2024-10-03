@@ -25,5 +25,5 @@ import { LenguagesComponent } from "./lenguages/lenguages.component";
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'MyCv';
+  title = 'mycv';
 }
